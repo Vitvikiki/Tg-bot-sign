@@ -1,2 +1,4 @@
-settings.py
+.env.py
 .idea
+.pytest_cache
+__pycache__
